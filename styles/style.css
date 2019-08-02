@@ -1,0 +1,50 @@
+/* Start Body */
+body {
+    background-color: white; 
+    background image: url(../images/bg.jpg);
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px; 
+    line-height: 1.5em;
+    margin: 0; 
+    padding: 0;
+}
+/* End Body */
+
+/* Start Debug */
+.bg-blue {
+    background-color: blue
+}
+.bg-red {
+    background-color: red
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+    .container-full {
+        margin: 10px auto;
+        overflow: auto;
+        width: 100%;
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+/* End Logo */
+
+/* Start Menu */
+.menu-primer ul {
+    background-color: green;
+    border-radius: 4px;
+    box-shadow: 
+    
+
+}
+/* End Menu */
